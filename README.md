@@ -1,4 +1,4 @@
-# TinderForJobs
+# IntervieworNah
 
 Matchmaker between Employers & Students (On-Campus Employment only). Allows students to create a profile with a brief bio & upload photos of cover letter/resume.
 Student can review open positions on-campus & apply via ‘swiping right’ on the open position.
